@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sebastian</h1>
-<h3 align="center">Puts the "fox" in software engineering/</h3>
+<h3 align="center">Puts the "fox" in software engineering. </h3>
 
 - 🌱 I’m currently learning **Python and C**
 
