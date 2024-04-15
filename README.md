@@ -1,14 +1,14 @@
-<div align="center">
-  <img height="150" src="https://cdn.britannica.com/31/148331-159-63BF76DC/stars-Ursa-Major-Big-Dipper.jpg"  />
-</div>
+<img align="right" height="300" src="https://cdn.britannica.com/31/148331-159-63BF76DC/stars-Ursa-Major-Big-Dipper.jpg"  />
 
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/Dip2000">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=kuqyk2zwn0sfklc20ekhaf55d&count=5" alt="Spotify recently played"  />
-  </a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=SebastianR18.SebastianR18&"  />
 </div>
+
+###
+
+<h1 align="center">Sebastián ☕</h1>
 
 ###
 
@@ -18,7 +18,11 @@
 
 ###
 
-<h1 align="center">Sebastián</h1>
+<div align="center">
+  <a href="https://open.spotify.com/user/kuqyk2zwn0sfklc20ekhaf55d">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=kuqyk2zwn0sfklc20ekhaf55d&count=1&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
 
@@ -26,7 +30,7 @@
 
 ###
 
-<p align="left">I'm a software developer student from Ecuador<br><br>- 🔭 I’m working on a Visual Novel.<br>- 📚 I'm currently learning C & Python<br>- ⚡ In my free time I draw anthropomorfic characters.</p>
+<p align="left">I'm a software developer student from Ecuador.<br><br>- 🔭 I’m working on a Visual Novel.<br>- 📚 I'm currently learning C & Python<br>- ⚡ In my free time I draw anthropomorfic characters.</p>
 
 ###
 
@@ -45,5 +49,18 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=SebastianR18&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SebastianR18&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SebastianR18&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 ###
