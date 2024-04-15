@@ -9,12 +9,6 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=SebastianR18&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
   <a href="https://open.spotify.com/user/kuqyk2zwn0sfklc20ekhaf55d">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=kuqyk2zwn0sfklc20ekhaf55d&count=1&unique=true" alt="Spotify recently played"  />
   </a>
@@ -40,6 +34,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=SebastianR18&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
