@@ -3,7 +3,9 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <a href="396327418618445826" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
 </div>
 
 ###
@@ -20,7 +22,7 @@
 
 ###
 
-<p align="left">I'm a software developer student from Ecuador.<br><br>- 🔭 I’m working on a Visual Novel.<br>- 📚 I'm currently learning C & Python.<br>- ⚡ In my free time I draw anthropomorfic characters.</p>
+<p align="left">I'm a software developer student from Ecuador.<br><br>- 🔭 I’m working on a Visual Novel.<br>- 📚 I'm currently learning C & Python<br>- ⚡ In my free time I draw anthropomorfic characters.</p>
 
 ###
 
