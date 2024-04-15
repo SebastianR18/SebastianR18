@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python and C**
 
-- 📫 How to reach me **Discord: @dip2000**
+- 📫 How to reach me Discord: @dip2000
 
 
 <h3 align="left">Languages and Tools:</h3>
