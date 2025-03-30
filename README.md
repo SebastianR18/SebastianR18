@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">I'm a software developer student from Ecuador.<br><br>- 🔭 I’m working on a Visual Novel.<br>- 📚 I'm currently learning C & Python<br>- ⚡ In my free time I draw anthropomorfic characters.</p>
+<p align="left">I'm a software developer student from Ecuador.<br><br>- 🔭 I’m working on a Visual Novel.<br>- 📚 I'm currently learning Java<br>- ⚡ In my free time I draw anthropomorfic characters.</p>
 
 ###
 
